@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: LIFE IN FLOWER
 
 # Your name to show in the footer
-author: Some Person
+author: HongChae
 
 # --- List of links in the navigation bar --- #
 
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "hongchae@student.seoularts.ac.kr"
+  facebook: 정민
+  github: jmin203
+  twitter: X
 #  patreon: DeanAttali
 #  reddit: yourname
 #  linkedin: daattali
@@ -228,4 +228,6 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
 
